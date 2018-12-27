@@ -18,7 +18,7 @@ class TestRegistration(TestCase):
             message.body,
             "\nSomeone, hopefully you, signed up for a new account at "
             "djangoproject.com using this email address. If it was you, and "
-            "you'd like to activate and use your account, click the link below "
+            "you'd like to activate and uuse your account, click the link below "
             "or copy and paste it into your web browser's address bar:\n\n"
             "https://www.djangoproject.com/accounts/activate/activation-key/\n\n"
             "If you didn't request this, you don't need to do anything; you "
